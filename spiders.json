@@ -1,0 +1,7 @@
+{
+    "Araneomorphae":[
+        {name: "Brown Widow", family: "Theridiidae", imagefile: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Brown_widow_spider_Latrodectus_geometricus_low_oblique_view.jpg/1920px-Brown_widow_spider_Latrodectus_geometricus_low_oblique_view.jpg"},
+        {name: "Red Back Jumping Spider", family: "Salticidae", imagefile: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kaldari_Phidippus_johnsoni_male_02.jpg/1280px-Kaldari_Phidippus_johnsoni_male_02.jpg"}
+								            
+    ]
+}    
